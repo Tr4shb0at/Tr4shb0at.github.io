@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Pentalah's Commissions!</title>
+<link rel="shortcut icon" href="images/pentalah/Pentalah.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1, minimum-scale=0.8, maximum-scale=3.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/navbar.css">
+<link rel="stylesheet" href="css/art.css">
+</head>
+<style>
+body {
+background-color: #bda0e1;
+}
+
+
+</style>
+<body>
+
+
+<div class="navbar">
+  <div class="dropdown">
+    <button class="dropbtn"> Characters
+      <i class="fa fa-caret-down"></i>
+    </button>
+      <div class="dropdown-content"> 
+        <div>
+          <a href="kane">Kane </a>
+          
+          <a href="shiloh">Shiloh </a>
+        </div>
+      </div
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn"> Pentalah
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="updatedrefsheet">Updated Ref Sheet</a>
+      <a href="kaneprideicon">Kane Pride Icon</a>
+      <a href="bluey">Kane Bluey-fied</a>
+      <a href="kaneicon">Kane Icon</a>
+    </div>
+  </div>
+  
+  <a href="wolfcore">wolf.core</a>
+  <a href="renuki">renuki</a>
+  <a href="floofbirb">thefloofbirb</a>
+  <a href="honeysucklez">honeysucklez</a>
+  <div class="dropdown">
+    <button class="dropbtn"> More
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="chipchell">chipchell</a>
+      <a href="chikenstipper">chikenstipper</a>
+      <a href="oleanderfields">oleander.fields</a>
+      <a href="minxuwo">minx uwo</a>
+    </div>
+  </div> 
+</div>
+
+<h1>Kane Profile Picture</h1>
+
+<h2>Commission from <a href="https://www.instagram.com/pent_alah">Pentalah!</a></h2>
+
+<p><img src="images/pentalah/34EDD5C2-B169-49A7-BF7E-836B196496AC.png" alt="Main Profile Picture I use" width= "340" height="340"></p>
+
+<p><h5>This commission was completed on 03/11/2021 and to this day I still use this icon as my Profile picture on most of my socials!.</h5></p>
+
+<p><h5>Pentalah went way & beyond with this piece & I couldn't be more happy! c:</h5></p>
+
+
+<h6>25/04/2023 | 15:01</h6>
+
+
+<hr>
+
+
+<footer><a href="kane">back</a></footer>
+
+<p></p>
+
+</body>
+
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Kanes Art Gallery</title>
+<link rel="shortcut icon" href="images/KaneFavicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1, minimum-scale=0.8, maximum-scale=3.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/navbar.css">
+<link rel="stylesheet" href="css/art.css">
+</head>
+<style>
+body {
+background-color: #BCD7ED;
+}
+
+
+</style>
+<body>
+
+
+<div class="navbar">
+  <div class="dropdown">
+    <button class="dropbtn"> Characters
+      <i class="fa fa-caret-down"></i>
+    </button>
+      <div class="dropdown-content"> 
+        <div>
+          <a href="kane">Kane </a>
+          
+          <a href="shiloh">Shiloh </a>
+        </div>
+      </div
+    </div>
+  </div>
+
+
+  <div class="dropdown">
+    <button class="dropbtn"> Pentalah
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="updatedrefsheet">Updated Ref Sheet</a>
+      <a href="kaneprideicon">Kane Pride Icon</a>
+      <a href="bluey">Kane Bluey-fied</a>
+      <a href="kaneicon">Kane Icon</a>
+    </div>
+  </div>
+  
+  
+  <a href="wolfcore">wolf.core</a>
+  <a href="renuki">renuki</a>
+  <a href="floofbirb">thefloofbirb</a>
+  <a href="honeysucklez">honeysucklez</a>
+  <div class="dropdown">
+    <button class="dropbtn"> More
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="chipchell">chipchell</a>
+      <a href="chikenstipper">chikenstipper</a>
+      <a href="oleanderfields">oleander.fields</a>
+      <a href="minxuwo">minx uwo</a>
+    </div>
+  </div> 
+</div>
+
+
+<h2>In Development!</h2>
+
+<hr>
+
+<h6>last edit: 24/04/2023 :- 17:18 </h6>
+
+<div>
+  <a href="shiloh">
+  <img src="images/pentalah/19.11.2022.png" style=max-width:408.31px; max-height:355.49px;>
+  </a>
+</div>  
+  
+  
+<footer class="myfooter"><a href="art">Main Page</a></footer>
+  
+  
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Pentalah's Commissions!</title>
+<link rel="shortcut icon" href="images/pentalah/Pentalah.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1, minimum-scale=0.8, maximum-scale=3.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/navbar.css">
+<link rel="stylesheet" href="css/pentalah.css">
+<style>
+<body>
+
+</style>
+</head>
+
+<div class="navbar">
+  <div class="dropdown">
+    <button class="dropbtn"> Characters
+      <i class="fa fa-caret-down"></i>
+    </button>
+      <div class="dropdown-content"> 
+        <div>
+          <a href="kane">Kane </a>
+          
+          <a href="shiloh">Shiloh </a>
+        </div>
+      </div
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn"> Pentalah
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="updatedrefsheet">Updated Ref Sheet</a>
+      <a href="kaneprideicon">Kane Pride Icon</a>
+      <a href="bluey">Kane Bluey-fied</a>
+      <a href="kaneicon">Kane Icon</a>
+    </div>
+  </div>
+  
+  <a href="wolfcore">wolf.core</a>
+  <a href="renuki">renuki</a>
+  <a href="floofbirb">thefloofbirb</a>
+  <a href="honeysucklez">honeysucklez</a>
+  <div class="dropdown">
+    <button class="dropbtn"> More
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="chipchell">chipchell</a>
+      <a href="chikenstipper">chikenstipper</a>
+      <a href="oleanderfields">oleander.fields</a>
+      <a href="minxuwo">minx uwo</a>
+    </div>
+  </div> 
+</div>
+
+<h2>Commissions from <a href="https://www.instagram.com/pent_alah">Pentalah!</a></h2>
+<hr>
+<p><h3>Updated Ref of my fursona</h3></p>
+
+<p><video width="352" height=198" controls autoplay> <source src="videos/website-2-muted.mp4" type="video/mp4"> <source src="videos/website-2-muted.ogg" type="video/ogg"> Your browser does not support the video tag. </video></p>
+
+<p><h5><a href="https://www.youtube.com/watch?v=Ev7vX02ZdEY">Youtube Video Link</a></h5></p>
+<hr>
+<p><h5>Thought I'd share a time-lapse of my fursona (Kane) being made ^^</h5></p>
+
+<p><h5>This ref sheet was made by pent_alah (or dreaming_alecs) over on instagram! (links below ^^)</h5></p>
+
+<p><h5>I seriously adore this art piece and I'm so so grateful for this commission!!</h5></p>
+
+<p><h5>They are great to work with as they're patient and are understanding with people who may be indecisive or have difficulties speaking to other people, (totally not me or anything *sweats)</h5></p>
+
+<p><h5>They are really trustworthy as I've commissioned them for over 2 years and have handled the whole process very professionally!</h5></p>
+
+<p><h5>Keep in mind that whenever you commission someone, always be mindful that the person you are speaking to is a real person. No matter the artist, they cannot produce everything to 100% match your specs or finish a commission within a day. Always respect the artist and you shall get respect back.</h5></p>
+
+<p><h5>I was going to upload this months ago when I got the commission done but I forgot due to pressure I was facing on the last few weeks of my course, which kinda sent me crazy (sorry :/)</h5></p>
+
+<p><h5>Anyways I highly recommend checking out their commission's as I value their art a whole lot :)</h5></p>
+
+<p><h5>-</h5></p>
+
+<p><h5>edit: the tail is now a blue colour like the body since I think it looks better :3</h5></p>
+
+<p><h5>edit 2: I'm also working on a website in my free time which I'll use to show off my fursona as I thought it'd be neat to do. however don't expect it to be done anytime soon as it's just something I do in my free time.</h5></p>
+
+<p><h5>Anyways if you've read this far, have a great day/night :)</h5></p>
+<hr
+
+
+<footer><a href="kane">back</a></footer>
+
+<p></p>
+
+</body>
+
+</html>

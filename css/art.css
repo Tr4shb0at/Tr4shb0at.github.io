@@ -1,0 +1,48 @@
+body {
+background-color: #9F94E0;
+position: absolute;
+top: 30px;
+left: 30px;
+right: 30px;
+bottom: 30px;
+border: 50px;
+}
+h1 {
+  font-size: 4.9vw;
+  font-family:Helvetica;
+  color:white;
+  
+}
+h2 {
+  font-size: 3.0vh;
+  font-family:Helvetica;
+  color:white;
+  
+}
+h3 {
+  font-size: 3.0vh;
+  font-family:Helvetica;
+  color:white;
+}
+h4 {
+  font-size: 3.0vmin;
+  font-family:Helvetica;
+  color:white;
+}
+h5 {
+  font-size: 1.8vh;
+  font-family:Helvetica;
+  color:white;
+}
+h6 {
+  font-size: 3.0vmin;
+  font-family:Helvetica;
+  color:white;
+}
+p {
+  font-family:Helvetica;
+ color:white;
+}
+myfooter {
+    text-align: center;
+}

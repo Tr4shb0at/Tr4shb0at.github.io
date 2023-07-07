@@ -1,0 +1,18 @@
+body {
+background-color: #9F94E0;
+position: absolute;
+top: 30px;
+left: 30px;
+right: 30px;
+bottom: 30px;
+border: 50px;
+}
+h1 {
+  font-size: 5.9vw;
+}
+h2 {
+  font-size: 3.0vh;
+}
+p {
+  font-size: 2.5vmin;
+}

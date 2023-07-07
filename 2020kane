@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Pentalah's Commissions!</title>
+<link rel="shortcut icon" href="images/pentalah/Pentalah.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1, minimum-scale=0.8, maximum-scale=3.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/navbar.css">
+<link rel="stylesheet" href="css/art.css">
+</head>
+<style>
+body {
+background-color: #bda0e1;
+}
+
+
+</style>
+<body>
+
+
+<div class="navbar">
+  <div class="dropdown">
+    <button class="dropbtn"> Characters
+      <i class="fa fa-caret-down"></i>
+    </button>
+      <div class="dropdown-content"> 
+        <div>
+          <a href="kane">Kane </a>
+          
+          <a href="shiloh">Shiloh </a>
+        </div>
+      </div
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn"> Pentalah
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="updatedrefsheet">Updated Ref Sheet</a>
+      <a href="kaneprideicon">Kane Pride Icon</a>
+      <a href="bluey">Kane Bluey-fied</a>
+      <a href="kaneicon">Kane Icon</a>
+      <a href="firstrefsheet">First Commission</a>
+    </div>
+  </div>
+  
+  <a href="wolfcore">wolf.core</a>
+  <a href="renuki">renuki</a>
+  <a href="floofbirb">thefloofbirb</a>
+  <a href="honeysucklez">honeysucklez</a>
+  <div class="dropdown">
+    <button class="dropbtn"> More
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="chipchell">chipchell</a>
+      <a href="chikenstipper">chikenstipper</a>
+      <a href="oleanderfields">oleander.fields</a>
+      <a href="minxuwo">minx uwo</a>
+    </div>
+  </div> 
+</div>
+
+
+<h1>Kane Bluey-fied!</h1>
+
+<h2>Commission from <a href="https://www.instagram.com/pent_alah">Pentalah!</a></h2>
+
+<p><img src="images/pentalah/28.2.23purp.png" alt="Kane as a Bluey Character" width= "339.2" height="458"></p>
+
+<p><h5>Kane, But Bluey-fied! ^O^</h5></p>
+
+<p><h5>A special Thank you to an awesome friend @pent_alah for making this unexpectedly!! :3</h5></p>
+
+<p><h5>I am really greatful for this piece as I've always wondered what a Bluey-fied version of Kane would look like ;w;</h5></p>
+
+<p><h4>Video</h4></p>
+
+<p><video width="320" height=240" controls autoplay> <source src="videos/blueykane.mp4" type="video/mp4"> <source src="videos/blueykane.ogg" type="video/ogg"> Your browser does not support the video tag. </video></p>
+
+<h6>25/04/2023 | 16:12</h6>
+
+
+<hr>
+
+
+<footer><a href="kane">back</a></footer>
+
+<p></p>
+
+</body>
+
+</html>

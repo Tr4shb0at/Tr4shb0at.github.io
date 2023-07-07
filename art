@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Kanes Art Gallery</title>
+<link rel="shortcut icon" href="images/KaneFavicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1, minimum-scale=1.0, maximum-scale=3.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/align.css">
+</head>
+<style>
+body {
+background-color: #BCD7ED;
+}
+
+
+</style>
+<body>
+
+
+<center><h2>Welcome to my website! :D</h2>
+
+<center><h4>Click below! &#128172;</h4>
+
+
+
+
+<div>
+  <a href="kane">
+  <img src="images/pentalah/19.11.2022.png" alt="Button" style="width:408.31px;height:355.49px;"></a>
+</div>
+
+
+
+<footer class="myfooter"><a href="kane">Or click here</a>
+<p>
+Woof, woof woof woof, woof woof? &#128021; - Kane
+
+
+<p> - 7:09 PM / 24/04/2023</footer>
+  
+  
+</body>
+</html>
